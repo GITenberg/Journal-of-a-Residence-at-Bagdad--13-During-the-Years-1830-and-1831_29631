@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '34047'
     url: http://www.gutenberg.org/2009/agents/34047
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29631#Journal-of-a-Residence-at-Bagdad--13-During-the-Years-1830-and-1831
 gutenberg_issued: '2009-08-07'
 gutenberg_type: Text
 identifiers:
