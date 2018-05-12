@@ -1,0 +1,35 @@
+_repo: Journal-of-a-Residence-at-Bagdad--13-During-the-Years-1830-and-1831_29631
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Groves, Anthony Norris
+    birthdate: 1795
+    deathdate: 1853
+    gutenberg_agent_id: '26379'
+    url: http://www.gutenberg.org/2009/agents/26379
+  editor:
+    agent_name: Scott, A. J. (Alexander John)
+    alias: Scott, Alexander John
+    birthdate: 1805
+    deathdate: 1866
+    gutenberg_agent_id: '34047'
+    url: http://www.gutenberg.org/2009/agents/34047
+description: ''
+gutenberg_issued: '2009-08-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29631'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Missions -- Turkey'
+- !lcsh 'Baghdad (Iraq) -- History'
+- !lcsh 'Plague -- Iraq -- Baghdad'
+- !lcc 'DS'
+title: "Journal of a Residence at Bagdad\r\nDuring the Years 1830 and 1831"
+url: http://www.gutenberg.org/ebooks/29631
